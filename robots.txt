@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add a Sitemap directive only after publishing a sitemap.xml on your real HTTPS domain.
